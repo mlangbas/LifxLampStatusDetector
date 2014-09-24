@@ -1,0 +1,4 @@
+LifxLampStatusDetector
+======================
+
+Lifx User Status
